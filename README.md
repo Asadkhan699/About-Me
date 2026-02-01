@@ -22,14 +22,15 @@ I am a developer from Ahmedabad, focused on building scalable web apps and autom
 
 ---
 
+
 ### 📊 My GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Asad's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asadkhan699&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asadkhan699&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn] www.linkedin.com/in/asadkhan-jamad-9b4031285 | [Portfolio](YOUR_PORTFOLIO_LINK)
+[LinkedIn](https://www.linkedin.com/in/asadkhan-jamad-9b4031285) | [Portfolio](YOUR_PORTFOLIO_LINK)
