@@ -32,4 +32,4 @@ I am a developer from Ahmedabad, focused on building scalable web apps and autom
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Portfolio](YOUR_PORTFOLIO_LINK)
+[LinkedIn](www.linkedin.com/in/asadkhan-jamad-9b4031285) | [Portfolio](YOUR_PORTFOLIO_LINK)
